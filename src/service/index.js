@@ -1,8 +1,5 @@
 import data from './index.json'
 export default class {
-  constructor(){
-    console.log(data)
-  }
   getBonuses = () => {
     return data.bonuses;
   }
