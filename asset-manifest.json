@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/travel-payouts/static/css/main.140925d3.chunk.css",
+    "main.js": "/travel-payouts/static/js/main.89da8e34.chunk.js",
+    "main.js.map": "/travel-payouts/static/js/main.89da8e34.chunk.js.map",
+    "runtime-main.js": "/travel-payouts/static/js/runtime-main.316741f7.js",
+    "runtime-main.js.map": "/travel-payouts/static/js/runtime-main.316741f7.js.map",
+    "static/js/2.df316668.chunk.js": "/travel-payouts/static/js/2.df316668.chunk.js",
+    "static/js/2.df316668.chunk.js.map": "/travel-payouts/static/js/2.df316668.chunk.js.map",
+    "index.html": "/travel-payouts/index.html",
+    "precache-manifest.67563790aa408846e31306f368b8503d.js": "/travel-payouts/precache-manifest.67563790aa408846e31306f368b8503d.js",
+    "service-worker.js": "/travel-payouts/service-worker.js",
+    "static/css/main.140925d3.chunk.css.map": "/travel-payouts/static/css/main.140925d3.chunk.css.map",
+    "static/js/2.df316668.chunk.js.LICENSE": "/travel-payouts/static/js/2.df316668.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.316741f7.js",
+    "static/js/2.df316668.chunk.js",
+    "static/css/main.140925d3.chunk.css",
+    "static/js/main.89da8e34.chunk.js"
+  ]
+}
