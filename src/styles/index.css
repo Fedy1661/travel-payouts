@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+.menu {
+  padding-top: 20px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  top: 0;
+  background: #1B1D29;
+  width: 80px;
+  text-align: center;
+  flex-direction: column;
+}
+.menu__links {
+  margin-top: 44px;
+}
+.menu__round {
+  border-radius: 100%;
+  border-color: #888991;
+  border: 1px solid #888991;
+  width: 24px;
+  height: 24px;
+  margin: 24px 28px;
+}
