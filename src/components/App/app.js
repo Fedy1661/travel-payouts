@@ -5,11 +5,14 @@ import Content from '../Content';
 import Service from '../../service';
 
 export default () => {
-
-return (
+  const { getBalance, getBonuses, getNextPayout } = new Service();
+  return (
     <div className="container">
       <Menu />
-      <Content />
+      <Content
+        getBalance={getBalance}
+        getBonuses={getBonuses}
+        getNextPayout={getNextPayout} />
     </div>
   )
 }
